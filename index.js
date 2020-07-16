@@ -1,1 +1,1 @@
-function katzDeli 
+function takeAnumber 
