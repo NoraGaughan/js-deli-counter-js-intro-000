@@ -1,3 +1,3 @@
 var katzDeli = []
 
-function takeANumber(katzDeli, name) { katzDeli.push {`
+function takeANumber(katzDeli, name) { katzDeli.push (`${name}`}
