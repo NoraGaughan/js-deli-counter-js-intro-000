@@ -1,3 +1,3 @@
 var katzDeli = []
 
-function takeANumber(katzDeli, name) { 
+function takeANumber(katzDeli, name) { katzDeli.push {`
