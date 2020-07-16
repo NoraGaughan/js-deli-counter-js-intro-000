@@ -13,3 +13,4 @@ function nowServing(katzDeli) {
 
 var line = [];
 
+function currentLine(katzDeli) { 
